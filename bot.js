@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const https = require('https'); // Добавить в начало
 
-const BOT_TOKEN = "8507666775:AAEKlLaA4ANRzVMXE6gldVkRcnRpZG9OZwU";
+const BOT_TOKEN = "8507666775:AAHPIHKvnwUh8-EsC5octX4yH3ZKvV2sCNc";
 const PORT = process.env.PORT || 3000;
 const RENDER_URL = process.env.RENDER_URL || "https://ВАШ-ПРОЕКТ.onrender.com"; // СВОЙ URL!
 
