@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 
 // ========== НАСТРОЙКИ ==========
-const BOT_TOKEN = "8507666775:AAEKILaA4ANRzVMXE6gldVkRcnRpZG9OZwU";
+const BOT_TOKEN = "8507666775:AAEKlLaA4ANRzVMXE6gldVkRcnRpZG9OZwU";
 const WEB_APP_URL = "https://kaktizapisan.github.io/star/";
 const PORT = process.env.PORT || 3000;
 // ===============================
