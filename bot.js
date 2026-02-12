@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const https = require('https');
 
-const BOT_TOKEN = "8507666775:AAEzeANu7j3EfosYPm495_P_lnlMToTvtt4";
+const BOT_TOKEN = "8507666775:AAF709GDOtF-EHPrLDgY8ed4QVqAnP6Pt4s";
 const PORT = process.env.PORT || 3000;
 const MY_URL = "https://nft-telegram-bot-zrul.onrender.com"; // ✅ ВАШ РЕАЛЬНЫЙ URL!
 const app = express();
